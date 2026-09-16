@@ -1,6 +1,8 @@
-# CareerPilot AI
+# Rolevion AI
 
-A deploy-ready MVP for resume tailoring, ATS-style job matching, AI-generated application content, and job application tracking.
+**From opportunity to offer.**
+
+Rolevion AI is a deploy-ready career intelligence MVP for resume tailoring, ATS-style job matching, AI-generated application content, and job application tracking.
 
 ## Included
 
@@ -20,7 +22,7 @@ A deploy-ready MVP for resume tailoring, ATS-style job matching, AI-generated ap
 
 1. Put this folder in a GitHub repository or import the folder directly into Vercel.
 2. Add an environment variable named `OPENAI_API_KEY` in the Vercel project settings.
-3. Optionally add `OPENAI_MODEL`; it defaults to `gpt-5.5`.
+3. Optionally add `OPENAI_MODEL`; it defaults to `gpt-5.6-luna`.
 4. Deploy.
 
 The serverless endpoint is `/api/generate`. The API key is never sent to the browser.
@@ -35,4 +37,4 @@ npx vercel dev
 
 ## Product safety
 
-CareerPilot automates application preparation, not unauthorized third-party account actions. The final application submission remains with the user.
+Rolevion automates application preparation, not unauthorized third-party account actions. The final application submission remains with the user.
