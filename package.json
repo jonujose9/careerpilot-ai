@@ -1,8 +1,8 @@
 {
-  "name": "careerpilot-ai",
+  "name": "rolevion-ai",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Deploy-ready CareerPilot AI MVP for resume tailoring, job matching and application tracking.",
+  "description": "Deploy-ready Rolevion AI MVP for resume tailoring, job matching and application tracking.",
   "scripts": { "dev": "vercel dev" }
 }
